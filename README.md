@@ -1,5 +1,5 @@
 
-### Hi there 👋, Justin Kim
+### Hi there 👋, I'm Justin Kim
 #### Development
 
 
@@ -12,6 +12,11 @@ And you can check out my materials I studied, on my blog.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justion1234)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills and Experience
+* HTML, CSS, JS 	:computer:
+* Python 	📱
+* Node.js :electron:
+* React :atom_symbol:
 
 Skills: Node.js/Python/JS/MongoDB/ HTML / CSS
 
