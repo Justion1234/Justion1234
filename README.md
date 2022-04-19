@@ -5,7 +5,7 @@
 
 
 Hi I'm Justin from South Korea, and I do content on Development. 
-I really enjoy studying backend and AI. When I work make website projects. I use vanilla java script and node.js and React for my projects.
+I really enjoy studying backend and AI. When I work in website projects. I use vanilla java script and node.js and React for my projects.
 In AI projects I use Python for data analysis and to train my AI model.
 For more information, you can check out my blog for the materials I have studied. <hr/>
 [My blog URL](https://highschool-ai-scientist.tistory.com/)
